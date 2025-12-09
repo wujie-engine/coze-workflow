@@ -6,5 +6,5 @@
 | W0008      | 提取小红书视频笔记内容进行仿写和润色存入飞书文档       | [W0008](./workflows/Workflow-W0008-draft-8051.zip) |
 | W0009      | 通过关键词检索抖音相关视频信息，并输出到飞书多维表格   | [W0009](./workflows/Workflow-W0009-draft-4516.zip) |
 | W0010      | 通过关键词检索小红书相关笔记信息，并输出到飞书多维表格 | [W0008](./workflows/Workflow-W0010-draft-3072.zip) |
-| W0015      | 飞影数字人工作流，支持更换数字人和声音                 | [W0015](./workflows/Workflow-W0015-draft-8259.zip) |
+| W0014      | 提取抖音博主主页中视频文案，写入到飞书多维表格         | [W0014](./workflows/Workflow-W0014-draft-4045.zip) |
 | W0022      | 抖音博主全方位维度分析拆解                             | [W0022](./workflows/Workflow-W0022-draft-771.zip)  |
