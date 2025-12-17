@@ -7,4 +7,4 @@
 | W0009      | 通过关键词检索抖音相关视频信息，并输出到飞书多维表格   | [W0009](./workflows/Workflow-W0009-draft-4516.zip) |
 | W0010      | 通过关键词检索小红书相关笔记信息，并输出到飞书多维表格 | [W0008](./workflows/Workflow-W0010-draft-3072.zip) |
 | W0014      | 提取抖音博主主页中视频文案，写入到飞书多维表格         | [W0014](./workflows/Workflow-W0014-draft-4045.zip) |
-| W0022      | 抖音博主全方位维度分析拆解                             | [W0022](./workflows/Workflow-W0022-draft-771.zip)  |
+| W0022      | 抖音博主全方位维度分析拆解                             | [W0022](./workflows/Workflow-W0022-draft-5242.zip)  |
